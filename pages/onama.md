@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Građansko buđenje o nama.
 description: Some description.
-permalink: /about/
+permalink: /onama/
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">

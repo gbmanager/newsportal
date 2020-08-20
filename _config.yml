@@ -14,10 +14,10 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
+  - title: O nama
+    url: /onama
+  - title: Kontakt
+    url: /kontakt
   - title: Feed
     url: /feed.xml
 
@@ -101,3 +101,6 @@ exclude: [
 
 # Theme
 version: v3.1.0
+
+exclude:
+  - html
