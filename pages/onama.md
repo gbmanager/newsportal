@@ -5,7 +5,7 @@ description: Građansko buđenje je incijativa slobodnomislećih građana sa pro
 permalink: /onama/
 ---
 
-<img class="" src="/assets/img/blog-image.png" alt="Gradjansko budjenje" width="200">
+<img class="" src="/assets/img/blog-image.png" alt="Gradjansko budjenje" width="600">
 
 # ŠTA JE GRAĐANSKO BUĐENJE?
 Građansko buđenje je incijativa slobodnomislećih građana sa prostora Balkana. Ova facebook stranica je način da incijativa građansko buđenje ima svoj medij i glas unutar gomile informacija koje možete pronaći na internetu. Građansko buđenje, nastalo je kao reakcija na gomilu manipulacija i laži koje se plasiraju građanima sa nekim višim ciljem koje ova građanska incijativa želi raskrinkati.
