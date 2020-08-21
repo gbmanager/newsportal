@@ -24,12 +24,10 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
+facebook_username: gradjanskobudjene
 twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+instagram_username: gradjansko_budjenje
+youtube_username: UCqhVu0gyYD7i4l-1HzpT6Wg
 
 
 # Posts Settings
@@ -57,7 +55,7 @@ collections:
     output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
-use_logo: false
+use_logo: true
 
 # Content paginator
 paginate_content:
