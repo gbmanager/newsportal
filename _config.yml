@@ -43,7 +43,7 @@ url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "ba"
 categories_folder: category
-sent_message_url: "/contact/message-sent/"
+sent_message_url: "/kontakt/poruka-poslana/"
 
 
 # Build settings
