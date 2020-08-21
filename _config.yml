@@ -1,5 +1,5 @@
 # Site Settings
-name: Građansko Buđenje
+name: GBihvijesti
 title: Građansko Buđenje | Vijesti 
 description: Građansko buđenje zastupa humanističke ideje kroz promociju sloboda zaštitu životne sredine neformalno obrazovanje informisanje unapređenje međuljudskih odnosa itd.
 tags:
@@ -14,6 +14,12 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Aktualno
+    url: /aktualno
+  - title: Raskrinkavanje
+    url: /raskrinkavanje
+  - title: Fujtograf
+    url: /fujtograf
   - title: O nama
     url: /onama
   - title: Kontakt
