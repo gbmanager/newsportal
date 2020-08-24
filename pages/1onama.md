@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Građansko buđenje o nama.
+title: Incijativa građansko buđenje.
 description: Građansko buđenje je incijativa slobodnomislećih građana sa prostora Balkana.
-permalink: /onama/
+permalink: /1onama/
 ---
 
 <img class="" src="/assets/img/blog-image.png" alt="Gradjansko budjenje" width="600">
@@ -22,9 +22,9 @@ Mi želimo biti Vaš glas i molimo vas da sve što vas muči i što mislite da j
 
 ## NAŠ OSNOVNI POSTULAT JE JEDNAKOST I SLOBODA ZA SVE GRAĐANE, A NE SAMO ZA ONE KOJI SU BIRANI.
 OSNOVNA PRAVILA PONAŠANJA NA OVOJ STRANICI:
-- Poštuj druge kao što poštuješ sebe.
++ Poštuj druge kao što poštuješ sebe.
 - Na ovoj stranici nećemo tolerisati nikakav rasizam, šovinizam, fašizam i nikakav drugi izam. A reagovat ćemo na način da vas nećemo brisati ni cenzurirati, već ćemo odgovoriti na svaki vaš komentar i ostaviti vas za loš primjer drugima. 
-- Iako pišemo u digitalnom svijetu iza svakog facebook profila stoji čovjek koji ima dušu i osjećaje, molimo vas da se ponašate po bontonu i da imate to u vidu kada budete liječili svoje frustracije vrijeđajući druge. Govorite samo o samome sebi. 
+* Iako pišemo u digitalnom svijetu iza svakog facebook profila stoji čovjek koji ima dušu i osjećaje, molimo vas da se ponašate po bontonu i da imate to u vidu kada budete liječili svoje frustracije vrijeđajući druge. Govorite samo o samome sebi. 
 
 ## SVE ZA SLOBODU, SLOBODU ZA NIŠTA.
          
